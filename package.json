@@ -1,0 +1,19 @@
+{
+  "name": "bharat-palindrome",
+  "version": "1.0.0",
+  "description": "This program enalbles to search for Palindromes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baau/javascript.git"
+  },
+  "author": "Bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baau/javascript/issues"
+  },
+  "homepage": "https://github.com/baau/javascript#readme"
+}
